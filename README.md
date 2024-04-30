@@ -46,8 +46,8 @@ Flixify is a visually appealing and user-friendly React application designed to 
    This will typically launch the application at http://localhost:3000/ in your web browser.
 
 **Screenshots:**
-()[https://github.com/anuragsingh132200/Flixify/blob/main/Screenshot%202024-05-01%20002623.png]
 
+![](https://github.com/anuragsingh132200/Flixify/blob/main/Screenshot%202024-05-01%20002623.png)
 **Additional Notes:**
 
 - If you used any specific component libraries, mention them here and provide relevant links to their documentation.
